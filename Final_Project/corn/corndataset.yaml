@@ -1,7 +1,0 @@
-train: ../datasets/corn_dataset/images/training/
-val: ../datasets/corn_dataset/images/validation/
-# number of classes
-nc: 2
-
-# class names
-names: ['normal', 'wrinkle']
